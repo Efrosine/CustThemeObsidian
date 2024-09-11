@@ -4,7 +4,6 @@ body {
 	--radius-l: 0px;
 	--input-radius: 0px;
 	--tab-radius-active: 0px;
-	/* --tab-container-background: #9eff010c; */
 	--checkbox-radius: 0px;
 	--toggle-radius: 0px;
 	--toggle-thumb-radius: 0px;
@@ -12,6 +11,11 @@ body {
 	--metadata-background: #9eff010c;
 	--metadata-padding: 10px 20px;
 	--metadata-property-padding: 0 10px;
+
+	--accent-h:83;
+	--accent-s: 100%;
+	--accent-l: 50%;
+
 	--link-color: #027aff;
 	--link-color-hover: var(--link-color);
 	--link-unresolved-color: var(--link-color);
